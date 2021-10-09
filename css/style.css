@@ -1,0 +1,53 @@
+﻿body{
+    margin: 10;
+    padding: 0;
+    background: linear-gradient(#ff6a00,#ffd800)
+}
+h1{
+    color:white;
+    text-align:center;
+    font-family: 'Harlow Solid';
+    font-size:50px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+h3 {
+    color: white;
+    text-align: left;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+p1 {
+    color: white;
+    text-align: center;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+h4 {
+    color: white;
+    text-align: left;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+p2 {
+    color: white;
+    text-align: left;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+h5 {
+    color: white;
+    text-align: left;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
+h6 {
+    color: white;
+    text-align: left;
+    font-family: 'Harlow Solid';
+    font-size: 30px;
+}
